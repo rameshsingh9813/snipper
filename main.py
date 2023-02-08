@@ -67,3 +67,4 @@ time_definer_for_screenshot()
 
 
 print("i am good")
+print("ohh no i am a good man")
